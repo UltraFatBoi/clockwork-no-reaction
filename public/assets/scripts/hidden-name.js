@@ -1,5 +1,5 @@
 const names = [
-    ["Clever | Connect every student to a world of learning", "clever.com"],
+    ["Clever | Portal", "clever.com"],
     ["Campus Student", "infinitecampus.org"],
     ["Google Classroom", "classroom.google.com"]
 ]
